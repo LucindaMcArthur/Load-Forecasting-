@@ -18,24 +18,24 @@ This project explores deep learning techniques for energy load forecasting, focu
 To run the project locally, follow these steps:
 
 1️⃣ Clone the repository:
-
 bash
 Copy
 Edit
 git clone https://github.com/your-username/load-forecasting-lstm.git
 cd load-forecasting-lstm
-2️⃣ Install dependencies:
 
+2️⃣ Install dependencies:
 bash
 Copy
 Edit
 pip install -r requirements.txt
-3️⃣ Run the model:
 
+3️⃣ Run the model:
 bash
 Copy
 Edit
 python main.py
+
 📈 Results & Insights
 The best-performing model was a three-layer LSTM architecture, showing improved forecasting accuracy.
 Feature engineering (e.g., time-based & lagged features) contributed to slight performance improvements.
