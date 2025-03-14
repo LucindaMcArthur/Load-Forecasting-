@@ -8,7 +8,7 @@ This project explores deep learning techniques for energy load forecasting, focu
 ✔️ Time-series forecasting using LSTM & GRU networks
 ✔️ Data preprocessing and feature engineering for better model accuracy
 ✔️ Model evaluation with Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared
-✔️ Hyperparameter tuning to optimize performance
+✔️ Hyperparameter tuning to optimize performance 
 
 📂 Repository Contents
 📜 Full Report: Detailed analysis, methodology, and findings
